@@ -6,3 +6,5 @@ This is a practice file.
         print('i am' + int(i*i+2) + 'years old')
 
 Experimental section: aaabbbccc
+
+Exp2: ghijk
